@@ -7,7 +7,7 @@ Currently, Noto covers all major languages of the world and many others, includi
 
 Support for Simplified Chinese, Traditional Chinese, Japanese, and Korean was first added in July 2014.
 
-You can preview and download the Noto fonts at http://www.google.com/get/noto.
+You can preview and download the Noto fonts at http://www.google.com/get/noto.http://www.google.com/get/noto/noto sans javanese
 
 Noto fonts are open source. All fonts are published under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL).  (Prior to September 29, 2015, Noto fonts other than CJK were published under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).)
 
